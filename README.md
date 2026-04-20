@@ -1,7 +1,5 @@
 # atividade-pratica-III
 
-README - Atividades Flexbox
-
 Praticar o uso do Flexbox, utilizando propriedades como:
 
 - display: flex
